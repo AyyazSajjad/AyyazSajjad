@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**AyyazSajjad/AyyazSajjad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ 
 
 - 🔭 I’m currently working on  Moderand Android Applications 
 - 🌱 I’m currently learning more Advaned Android Applications
