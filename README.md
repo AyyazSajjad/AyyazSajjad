@@ -1,4 +1,16 @@
+# 💫 Hi 👋, I'm Ayyaz Sajjad
+**A passionate Android App Developer  || JetPac Compose Kotlin  ||**
 
+Email Me 👉 ✉️ **Ayyazali.sajjadali@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:Android app Development 
+- 🌱 **I’m currently learning:** Advaned Level of Andrid app with AI
+- 👯 **I’m looking to collaborate on:** Any Big Companies that will more prodective for my work and i aslo help them 
+- 🤔 **I’m looking for help with:** To master my exesting Skills and becuome World top 5 Percent app deveolper 
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me: Ayyazali.sajjadail@gmail.com
+- 😄 **Pronouns:** Ayyaz s=
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ayyazali.sajjadali) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayyazsajjad) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ayyaz Sajjad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayyazali.sajjadali@gmail.com) 
 
