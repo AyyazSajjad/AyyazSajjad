@@ -1,16 +1,49 @@
-# 💫 Hi 👋, I'm Ayyaz Sajjad
-**A passionate Android App Developer  || JetPac Compose Kotlin  ||**
+👋 Hi, I'm Ayyaz Sajjad
 
-Email Me 👉 ✉️ **Ayyazali.sajjadali@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Android App Developer (Jetpack Compose • Kotlin)
+Building modern, scalable & AI-powered Android apps.
 
-- 🔭 **I’m currently working on:Android app Development 
-- 🌱 **I’m currently learning:** Advaned Level of Andrid app with AI
-- 👯 **I’m looking to collaborate on:** Any Big Companies that will more prodective for my work and i aslo help them 
-- 🤔 **I’m looking for help with:** To master my exesting Skills and becuome World top 5 Percent app deveolper 
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me: Ayyazali.sajjadail@gmail.com
-- 😄 **Pronouns:** Ayyaz s=
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+📧 Email: Ayyazali.sajjadali@gmail.com
+
+🌍 Location: Remote — Available Worldwide
+
+🔭 Currently Working On
+
+Advanced Android app development with Jetpack Compose
+
+AI-powered app features and performance-focused architectures
+
+🌱 Learning
+
+High-level Android engineering
+
+AI integrations, Firebase automation & scalable app patterns
+
+👯 Open to Collaborate With
+
+Global tech companies, startups & teams looking for modern Android solutions
+
+🤝 Looking For
+
+Senior-level mentorship to sharpen expertise
+
+Opportunities to grow into the top 5% Android developers worldwide
+
+💬 Ask Me About
+
+Android development (Compose + Kotlin)
+
+Firebase, clean architecture, and app performance optimization
+
+Tech collaboration & app debugging
+
+📫 How to Reach Me
+
+Email: Ayyazali.sajjadali@gmail.com
+
+⚡ Fun Fact
+
+I love creating apps that solve real-world problems — and technology loves me back.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ayyazali.sajjadali) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayyazsajjad) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ayyaz Sajjad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayyazali.sajjadali@gmail.com) 
 
