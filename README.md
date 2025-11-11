@@ -1,66 +1,86 @@
-👋 Hi, I'm Ayyaz Sajjad
+<!-- CENTERED HEADER -->
+<div align="center">
 
-Android App Developer (Jetpack Compose • Kotlin)
-Building modern, scalable & AI-powered Android apps.
+# Ayyaz Sajjad
+**Android Developer — Kotlin • Jetpack Compose • Firebase • MVVM**
 
-📧 Email: Ayyazali.sajjadali@gmail.com
+Remote (UTC+5) · Open to US / Europe / UK/AU / Gulf (Remote)
 
-🌍 Location: Remote — Available Worldwide
+[LinkedIn](https://linkedin.com/in/ayyazalisajjadali) • [GitHub](https://github.com/ayyazalisajjadali) • [Email](mailto:ayyazali.sajjadali@gmail.com)
 
-🔭 Currently Working On
-
-Advanced Android app development with Jetpack Compose
-
-AI-powered app features and performance-focused architectures
-
-🌱 Learning
-
-High-level Android engineering
-
-AI integrations, Firebase automation & scalable app patterns
-
-👯 Open to Collaborate With
-
-Global tech companies, startups & teams looking for modern Android solutions
-
-🤝 Looking For
-
-Senior-level mentorship to sharpen expertise
-
-Opportunities to grow into the top 5% Android developers worldwide
-
-💬 Ask Me About
-
-Android development (Compose + Kotlin)
-
-Firebase, clean architecture, and app performance optimization
-
-Tech collaboration & app debugging
-
-📫 How to Reach Me
-
-Email: Ayyazali.sajjadali@gmail.com
-
-⚡ Fun Fact
-
-I love creating apps that solve real-world problems — and technology loves me back.
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ayyazali.sajjadali) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayyazsajjad) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ayyaz Sajjad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayyazali.sajjadali@gmail.com) 
-
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ayyaz Sajjad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ayyaz Sajjad&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayyaz Sajjad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ayyaz Sajjad&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ayyaz Sajjad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+I build **production-grade Android apps** with **Jetpack Compose**, clean **MVVM**, and **offline-first** pipelines (Room/DataStore + WorkManager).  
+Security & stability first: **Firestore rules + composite indexes, App Check, Crashlytics/ANR triage**, and **policy-ready** releases.  
+Focused on measurable impact: faster **p95 frame time**, shorter **cold start**, and fewer **crashes/ANRs**.
+
+---
+
+## What I’m Working On
+- Advanced Compose architectures, multi-module setups, and baseline profiles  
+- AI-powered features & Firebase automation for scalable apps
+
+---
+
+## Core Skills
+**Kotlin**, Jetpack **Compose**, **Hilt/Dagger**, **Room**, **DataStore**, **WorkManager**, **Paging 3**  
+**Firestore/Storage/Functions**, **FCM**, **Remote Config**, **Crashlytics**, **App Check**  
+**Retrofit/OkHttp**, **Coroutines/Flow**, **CameraX**, **ExoPlayer**, **Navigation Compose**  
+**Perfetto/Systrace**, **Baseline Profiles**, **GitHub Actions**, **Gradle/AGP tuning**
+
+---
+
+## Selected Projects
+### WUM Connect — Attendance & Communication
+- Offline-first attendance (Room + WorkManager) → **~99% sync success**  
+- Firestore RBAC + composite indexes → unauthorized reads **0%**  
+- p95 frame time **–18%**, cold start **–320 ms** via baseline profiles  
+**Links:** [Repo](#) · [APK](#) · [Video](#)
+
+### VU Sports — Events & Roles
+- Real-time events, FCM digests, ANR guardrails; publish flow **–35%**  
+**Links:** [Repo](#) · [APK](#) · [Video](#)
+
+### ProofMark — Photo Proofs (CameraX + PDF/ZIP)
+- Capture → hash/metadata → queued export → secure share  
+**Links:** [Repo](#) · [APK](#) · [Video](#)
+
+> Want a quick look? I can share a **45-second demo** + code sample on request.
+
+---
+
+## Contact
+**Email:** ayyazali.sajjadali@gmail.com  
+**LinkedIn:** https://linkedin.com/in/ayyazalisajjadali
+
+---
+
+<!-- Optional: Compact badges for quick scan (avoid clutter) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-121212?logo=jetpackcompose&logoColor=09d3ac" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/WorkManager-0F9D58?logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Room-3DDC84?logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/CameraX-4285F4?logo=google&logoColor=white" />
+</p>
+
+---
+
+<!-- Stats (username must be EXACT) -->
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayyazalisajjadali&show_icons=true&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayyazalisajjadali&layout=compact)
+
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <sub>Open to remote Android roles · Product teams & startups · Consulting (performance, Firebase security, offline sync)</sub>
+</div>
