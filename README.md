@@ -1,10 +1,10 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ayyazalisajjadali&theme=dark&hide_border=true" width="0" height="0">
+<img src="https://streak-stats.demolab.com?user=ayyazalisajjadali&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="140" />
 
 # 👋 Hi, I'm **Ayyaz Sajjad**
-### **Android Engineer — Jetpack Compose | Kotlin | Firebase | Offline-Online Apps**
+### **Android Engineer — Jetpack Compose | Kotlin | Firebase | Offline-First Apps**
 
 Building **modern, scalable, production-grade Android apps** with clean architecture,  
 offline-first pipelines, and high-performance Jetpack Compose UI.
