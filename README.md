@@ -1,7 +1,4 @@
-<!-- HEADER -->
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ayyazalisajjadali&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="140" />
 
 # 👋 Hi, I'm **Ayyaz Sajjad**
 ### **Android Engineer — Jetpack Compose | Kotlin | Firebase | Offline-First Apps**
@@ -72,8 +69,7 @@ I design and deliver **real-world, production Android apps** with a strong focus
 
 ### ✅ **Attendance App — Offline-First Attendance System**
 📌 Offline-first attendance engine using **Room + WorkManager** (idempotent queue)  
-📌 Multi-role access: **Admin / Teacher / Student**  
-📌 Real-time Firestore sync with composite indexes  
+📌 Multi-role access: **Admin / Teacher / Student** 📌 Real-time Firestore sync with composite indexes  
 📌 Performance optimized screens: smooth lists, frame consistency  
 📌 Error-resilient syncing on low bandwidth networks
 
@@ -101,18 +97,6 @@ I design and deliver **real-world, production Android apps** with a strong focus
 
 **Tech:** Compose, Firestore, FCM, WorkManager  
 🔗 Repo | 📱 APK | 🎥 Video
-
----
-
-## 📊 **GitHub Activity**
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ayyazalisajjadali&show_icons=true&theme=tokyonight&hide_border=true" height="150">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyazalisajjadali&layout=compact&theme=tokyonight&hide_border=true" height="150">
-
-<img src="https://streak-stats.demolab.com?user=ayyazalisajjadali&theme=tokyonight&hide_border=true" height="185">
-
-</div>
 
 ---
 
